@@ -1,0 +1,13 @@
+credentials.json
+token.json
+poetry.lock
+result.csv
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+*.log
+*.sqlite3
+.DS_Store
+.ruff_cache
